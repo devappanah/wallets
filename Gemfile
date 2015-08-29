@@ -32,6 +32,8 @@ gem "font-awesome-rails"
 
 gem 'simple_form'
 
+gem 'devise'
+
 # Use Unicorn as the app server
 # gem 'unicorn'
 
